@@ -16,7 +16,7 @@
 
 &emsp;&emsp;Por ser uma linguagem de sintaxe relativamente simples e de fácil compreensão, ganhou popularidade entre profissionais da indústria tecnológica que não são especificamente programadores, como engenheiros, matemáticos, cientistas de dados, pesquisadores e outros. 
 
-&emsp;&emsp;Python é uma linguagem poderosa, possui uma grande comunidade e uma vasta quantidade de bibliotecas, o que faz com que essa seja uma linguagem muito versátil e de fácil aprendizado devido ao grande número de documentações. A seguir estão algumas dass principais áreas onde o Python é utilizado:
+&emsp;&emsp;Python é uma linguagem poderosa, possui uma grande comunidade e uma vasta quantidade de bibliotecas, o que faz com que essa seja uma linguagem muito versátil e de fácil aprendizado devido ao grande número de documentações. A seguir estão algumas das principais áreas onde o Python é utilizado:
 
 <br>
 
